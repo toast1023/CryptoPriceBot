@@ -32,3 +32,7 @@ Supervisor tree structure:
    ```CrytoBot.Alert.Server.remove(id)```
    
    This removes a notification based on ID (which can be seen with the list command)
+   
+   
+   
+## TODO
