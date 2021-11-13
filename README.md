@@ -1,7 +1,7 @@
 # CryptoPriceBot
 Crypto Polling Bot built in Elixir using OTP concepts
 
-##Project structure
+## Project structure
 Supervisor tree structure: 
 
                 <CryptoBot.Supervisor>
@@ -18,7 +18,7 @@ Supervisor tree structure:
   
   Alert.Server basically serves as an interface for users to communicate with. 
   
-  ##Basic Commands
+  ## Basic Commands
   Some current commands: 
         
   ```CrytoBot.Alert.Server.add("ticker", price)```
