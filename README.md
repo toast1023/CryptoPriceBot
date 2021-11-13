@@ -23,17 +23,17 @@ Supervisor tree structure:
         
   ```CrytoBot.Alert.Server.add("ticker", price)```
   
-  Such as  ```CrytoBot.Alert.Server.add("btc", 70000)``` or ```CrytoBot.Alert.Server.add("eth", 4000)```
+  - Such as  ```CrytoBot.Alert.Server.add("btc", 70000)``` or ```CrytoBot.Alert.Server.add("eth", 4000)```
   
-  This adds a notification for the specified ticker at the specified price point. 
+  - This adds a notification for the specified ticker at the specified price point. 
   
    ```CrytoBot.Alert.Server.list```
   
-  This lists the current notifications along with their ID number. 
+  - This lists the current notifications along with their ID number. 
   
    ```CrytoBot.Alert.Server.remove(id)```
    
-   This removes a notification based on ID (which can be seen with the list command)
+   - This removes a notification based on ID (which can be seen with the list command)
    
    
    
