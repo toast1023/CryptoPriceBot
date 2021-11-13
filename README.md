@@ -36,3 +36,17 @@ Supervisor tree structure:
    
    
 ## TODO
+- error handling
+  - restart server
+  - when restart list still retains pids
+  - more elegant way of showing price has reached
+- pseudo portfolio
+  - ability to "buy"
+  - ability to "sell"
+  - view and track your individual stocks
+  - generate your personlized graph (look for graph library)
+- frontend page
+  - Phoenix?
+  - React?
+- Connect database
+  - Postgres
